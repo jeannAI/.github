@@ -14,9 +14,9 @@ jeannAI is an AI-native holding company that builds and operates technology busi
 
 | Company | Focus |
 |---------|-------|
-| **[NexFolia](https://github.com/NexFolia)** | Financial data infrastructure — ETL platform (adAPPter), risk management (RiskHub) |
+| **[NexFolia](https://github.com/NexFolia)** | Financial data infrastructure — ETL modernization for fund administrators and asset managers |
 | **[Arctos](https://github.com/ArctosCap)** | Quantitative investment & risk intelligence — portfolio construction, attribution, allocation |
-| **[Harvest](https://github.com/HarvestBQ)** | Venture studio & boutique consulting — incubation, advisory, technology consulting |
+| **[Harvest](https://github.com/HarvestBQ)** | AI product boutique — consumer apps and niche B2B software |
 
 ---
 
