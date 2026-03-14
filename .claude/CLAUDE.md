@@ -17,7 +17,7 @@ Before building something new, check what the holding already provides.
 - **Capability manifest:** `../.github-private/org/capabilities.yml`
 - **AI Toolkit:** `../../tooling/ai-toolkit/` (relative from .claude/)
   - 9 skills, 38 agent roles, 7 workflow conventions
-- **Docs:** See `docs/source/reference/capability-catalog.rst` in hldg_jeannai
+- **Docs:** See `tooling/docs/source/reference/capability-catalog.rst` in hldg_jeannai
 
 > Parse `capabilities.yml` for the full machine-readable catalog of skills,
 > agents, conventions, MCP servers, and infrastructure.
